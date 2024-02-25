@@ -20,7 +20,7 @@ h1{
     text-shadow: 8px 8px 8px palegreen;
     border-bottom: solid 3px rgb(115, 115, 114);
     font-size: 2rem;
-    letter-spacing: 1.2rem;
+    letter-spacing: 1.2em;
 }
 
 #basic > p{
