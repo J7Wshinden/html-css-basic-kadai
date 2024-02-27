@@ -1,7 +1,7 @@
 #top{
-    width: 800 px;
+    width: 800px;
     background-color: #dcc9f4;
-    padding: 20px 0px;
+    margin: 20px auto;
     text-align: center;
 }
 
@@ -9,7 +9,6 @@
     display: inline-block;
     width: 20%;
     background-color: #ffd9df;
-    margin: 3px;
 }
 
 #middle{
