@@ -38,8 +38,8 @@ main{
 }
 
 h2{
+    border-bottom: dotted rgb(236, 122, 122);
     font-size: 25px;
-    text-decoration: 3px dotted rgb(236, 122, 122);
 }
 
 h2::before{
